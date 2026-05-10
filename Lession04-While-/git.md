@@ -21,4 +21,8 @@ các khu vực quan trọng
 - local repositiy : folder .git trên máy (ns lưu history cmmit local)
 - remote repositoy : github/ gitlab/bitbucket ( nói lưu bản onl)
 - 
-
+các bước :
+b1 : khởi tạo git folder git init 
+lần đầu tiên và duy nhẩ -> sau lệnh git sé tạo ra 1 folder ẩn là .git
+b2 : git status - kiểm tra trạng thái file 
+b
