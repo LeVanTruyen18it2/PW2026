@@ -25,4 +25,8 @@ các bước :
 b1 : khởi tạo git folder git init 
 lần đầu tiên và duy nhẩ -> sau lệnh git sé tạo ra 1 folder ẩn là .git
 b2 : git status - kiểm tra trạng thái file 
-b
+b3: test git add . -> thêm tất cả file vào staging area
+b4: git commit -m "message" -> commit file đã thêm vào staging area
+b5: git log -> xem lịch sử commit
+b6: git diff -> xem sự khác biệt giữa file đã thay đổi và file đã commit
+b7: git checkout -- <file> -> bỏ qua thay đổi của file và trở về
