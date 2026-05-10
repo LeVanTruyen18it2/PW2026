@@ -16,7 +16,7 @@ mối lần commit -> git sẽ saved
 
 
 các khu vực quan trọng 
-- worrking directory : folder pj trên máy 
+- worrking directory : folder pj trên máy  : lệnh pwd sau đó ls xem ta đang đúng ở đúng folder hay k ? 
 - staging area : vùng chuẩn bị commit -> nơi bạn chọn file nào để commit 
 - local repositiy : folder .git trên máy (ns lưu history cmmit local)
 - remote repositoy : github/ gitlab/bitbucket ( nói lưu bản onl)
